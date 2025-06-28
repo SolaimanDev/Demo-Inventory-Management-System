@@ -1,4 +1,4 @@
-# Laravel Multi-App JWT Authentication Demo
+# Laravel Inventory Management Demo
 
 ## 🚀 Please follow the instructions for Setup  
 1. Navigate to the backend folder:
